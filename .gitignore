@@ -1,0 +1,17 @@
+.DS_Store
+
+# Local environment
+.env
+
+# Local references
+refs/
+
+# Generated Spark/Jupyter outputs
+data/
+notebooks/spark-warehouse/
+notebooks/**/.ipynb_checkpoints/
+*.crc
+
+# Python/runtime cache
+__pycache__/
+*.py[cod]
