@@ -6,6 +6,9 @@
 # Local references
 refs/
 
+# Local video workspace and render artifacts
+video/
+
 # Generated Spark/Jupyter outputs
 data/
 notebooks/spark-warehouse/
